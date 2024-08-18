@@ -5,8 +5,8 @@
             "title": "naspad اینترنت آزاد",
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/SvnTeam.jpg"
         },
-        "type": "vless",
-        "config": "vless://SVNTEAM@speedtest.net:443?type=ws&host=ZuLa.Net&path=/?ed=1024&security=tls&fp=firefox&sni=speedtest.net&alpn=h2,http/1.1#رایگان | VLESS | @SvnTeam | US🇺🇸 | 0️⃣7️⃣",
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxMDQuMTcuMy44MSIsImFpZCI6IjAiLCJob3N0Ijoic2cyLnpldmVzaC5ob3N0IiwiaWQiOiI0MDc5YTM1Zi1mZjQ4LTQwZTEtOGZhOC00MzVkZWQxMmY4ZjciLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiU2VyaTEyMzogRWR1a2FzaSA0IiwidGxzIjoidGxzIiwic25pIjoic2cyLnpldmVzaC5ob3N0IiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
         "ping": 1.86,
         "time": "2024-08-18 16:47:14"
     },
