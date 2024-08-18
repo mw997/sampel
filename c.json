@@ -1,8 +1,8 @@
 [
     {
         "channel": {
-            "username": "SvnTeam",
-            "title": "SVNTEAeM اینترنت آزاد",
+            "username": "nasipadang",
+            "title": "naspad اینترنت آزاد",
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/SvnTeam.jpg"
         },
         "type": "vless",
@@ -12,8 +12,8 @@
     },
     {
         "channel": {
-            "username": "CUSTOMVPNSERVER",
-            "title": "CUSTiOM VPN SERVER",
+            "username": "nasiuduc",
+            "title": "nasduc",
             "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/CUSTOMVPNSERVER.jpg"
         },
         "type": "vless",
